@@ -8,7 +8,7 @@
 | folder2           | content2   |
 
 有任何疑问欢迎联系：
-> * Q  Q：null
+> * Q Q：null
 > * V  X：null
 > * CSDN：ZTL-chd
 > * EMAIL：ztl020806@gmail.com   
