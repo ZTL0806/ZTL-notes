@@ -10,7 +10,7 @@
 > * Q  Q：null
 > * V  X：null
 > * CSDN：ZTL-chd
-> * EMAIL：ztl020806@gmail.com    <img src="/ProfilePicture.jpg" width="300px">
+> * EMAIL：ztl020806@gmail.com   
 
 ------
 > 名为志存。 —— 朱熹
