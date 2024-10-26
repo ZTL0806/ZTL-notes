@@ -1,5 +1,5 @@
 # 《ZTL的学习笔记》
-<img src="/ProfilePicture.jpg" width="300px">
+
 
 | 文件夹名          | 描述  |
 | --------          | -----:  |
@@ -10,7 +10,7 @@
 > * Q  Q：null
 > * V  X：null
 > * CSDN：ZTL-chd
-> * EMAIL：ztl020806@gmail.com
+> * EMAIL：ztl020806@gmail.com    <img src="/ProfilePicture.jpg" width="300px">
 
 ------
 > 名为志存。 —— 朱熹
